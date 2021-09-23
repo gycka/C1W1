@@ -33,8 +33,6 @@ int main(void)
   printf("The pi value is: %f \n", pi);
   printf("The letter is: %c \n", letter);
 
-  printf("%s", "Stuff was happening here.\n");
-
   printf("Hello World\n");
   return 0;
 }
